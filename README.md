@@ -1,5 +1,14 @@
 # Locomoción basada en osciladores para robots con patas.
-En este repositorio se encuentra mi Tesis de Final de Máster y sus fuentes.
+En este repositorio se encuentra mi Tesis de Final de Máster y sus fuentes. Para citarlo con BibTeX puedes usar:
+
+```
+@mastersthesis{isabel2016locomocion,
+  title={Locomoci{\'o}n basada en osciladores para robots con patas},
+  author={Javier Isabel},
+  school={Universidad Carlos III de Madrid},
+  year={2016}
+}
+```
 
 # Robots
 [Zowi](https://github.com/JavierIH/zowi)
