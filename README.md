@@ -1,4 +1,6 @@
-![](portada/portada.png)
+<p align="center">
+<img src="portada/portada.png" align = "center">
+</p>
 
 # Locomoción basada en osciladores para robots con patas.
 En este repositorio se encuentra mi Tesis de Final de Máster y sus fuentes. Para citarlo con BibTeX puedes usar:
